@@ -1,6 +1,8 @@
-# Demand for Yellow Taxis in NYC based on Events
+# Demand for Yellow Taxis in NYC based on Events & Weather
 
 ## README 
+
+### The report is available under 'report/report.pdf'
 
 **Research Goal:** My research goal is demand analysis based on events in New York
 
